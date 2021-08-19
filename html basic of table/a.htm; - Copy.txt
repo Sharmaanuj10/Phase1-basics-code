@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+anuj</title></head>
+<body>
+<a href="#Taj">1.Taj Mahal</a>
+<a href="#Thar">2.Indian desert</a>
+<a href="#mountain">3.Mountain ranges</a>
+<a href="#island">4.Island</a>
+<a name="Anuj"><p></p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
